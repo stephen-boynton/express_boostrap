@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "bunyan": "^1.8.12",
     "express": "^4.16.4",
     "ramda": "^0.25.0"
